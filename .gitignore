@@ -1,0 +1,15 @@
+# Ignore large binary files, which should be handled by git-annex
+*.nii.gz
+*.fif
+*.ds
+*.mat
+*.dat
+*.zip
+*.tar
+
+# IDE and OS-specific files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
